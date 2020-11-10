@@ -1,0 +1,10 @@
+name: WorldTP
+version: 1.0
+author: CraftYun83
+main: com.craftyun83.worldtp.Main
+description: WorldTP makes it easy to teleport to other worlds!
+
+commands:
+  worldtp:
+    aliases: [wtp]
+    description: Teleport to your worlds!
